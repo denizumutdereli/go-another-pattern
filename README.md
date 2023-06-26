@@ -1,2 +1,2 @@
 # go-another-pattern
-Yet another simpl pattern with golang
+Yet another simple pattern with golang
